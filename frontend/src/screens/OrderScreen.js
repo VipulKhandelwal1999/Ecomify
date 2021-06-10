@@ -112,7 +112,10 @@ const OrderScreen = ({ match, history }) => {
     };
 
     // creating a new order
-    const result = await axios.post('/api/payment/razorpay', config);
+    const result = await axios.post(
+      'https://ecomify-store.herokuapp.com/api/payment/razorpay',
+      config
+    );
     if (!result) {
       return;
     }
