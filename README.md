@@ -6,9 +6,9 @@ Ecomify is an E-Commerce platform built using MERN stack & Redux.
 
 ![screenshot](https://raw.githubusercontent.com/VipulKhandelwal1999/ecomify/master/uploads/Homepage.png)
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/VipulKhandelwal1999/ecomify/master/uploads/Homepage_Latest_Products.png)
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/VipulKhandelwal1999/ecomify/master/uploads/Product_Page.png)
 
 ---
 
