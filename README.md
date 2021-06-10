@@ -6,6 +6,12 @@ Ecomify is an E-Commerce platform built using MERN stack & Redux.
 
 ![screenshot]()
 
+![screenshot]()
+
+![screenshot]()
+
+---
+
 ## Features
 
 - Full Featured Shopping Cart
