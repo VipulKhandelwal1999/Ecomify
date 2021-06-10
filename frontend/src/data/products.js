@@ -1,5 +1,6 @@
 const products = [
   {
+    id: 3432,
     name: 'Wireless Headphones',
     image: '/images/headphones.jpg',
     description:
