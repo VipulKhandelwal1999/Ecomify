@@ -2,7 +2,7 @@
 
 Ecomify is an E-Commerce platform built using MERN stack & Redux.
 
-### [Live Demo]()
+### [Live Demo](https://ecomify-store.herokuapp.com/)
 
 ![screenshot]()
 
